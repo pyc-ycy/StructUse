@@ -6,7 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../StructUse\examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../StructUse\tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../StructUse\benches" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../StructUse\target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
